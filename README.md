@@ -8,7 +8,6 @@ This project performs data analysis on a Airline  dataset to solve the challenge
 - [Tools & Technologies](#tools--technologies)
 - [Project Structure](#project-structure)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Research Questions & Key Findings](#research-questions--key-findings)
 - [Dashboard](#dashboard)
 - [How to Run This Project](#how-to-run-this-project)
