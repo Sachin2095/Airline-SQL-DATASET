@@ -2,7 +2,7 @@
 This project performs data analysis on a Airline  dataset to solve the challenges like stricter environmental regulations , higher flight taxes, increased interest rates,rising fuel prices etc.
 
 ## 📑 Table of Contents
-- [Overview](#overview)
+- [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
@@ -15,16 +15,16 @@ This project performs data analysis on a Airline  dataset to solve the challenge
 
 ---
 
-## 🔹 Project Overview
+## 🔹Project Overview
 The goal of this data analysis project using SQL , Python would be to identify opportunities to increase the occupancy rate on low-performing flights ,which can ulimately lead to increased profitablity for the airline.
 ---
 
-## 🔹 Business Problem
+## 🔹Business Problem
 A airline company is currently facin a  challenges due to several factors such as stricter environmental regulations, higher flight taxes, increased interest rates,rising fuel prices and a tight labor market resulting in increased labor costs. As a result , the company's profitability is under pressure and they are seekin ways to address the issue to tackle this challenges.
 
 ---
 
-## 🔹 Dataset
+## 🔹Dataset
 - Source of the dataset : https://www.kaggle.com/datasets/open-flights/airline-database
 
 - Size, format, and key features/columns  : this is a database that contains different table related to airline industries like aircrafts_data,airports_data,boarding_passes,bookings , flights,seats,ticket_flights,tickets.
@@ -34,7 +34,7 @@ A airline company is currently facin a  challenges due to several factors such a
 2. explore the table one by one using pandas function (read_sql_query).
 ---
 
-## 🔹 Tools & Technologies
+## 🔹Tools & Technologies
 - Python 
 - Sqlite3
 - Numpy 
@@ -56,7 +56,7 @@ A airline company is currently facin a  challenges due to several factors such a
 
 ---
 
-## 🔹 Data Cleaning & Preparation
+## 🔹Data Cleaning & Preparation
 Steps taken for:
 - Handling missing values  : No Null values Found
 - Checking Duplicates : No duplicate rows Found.
@@ -93,11 +93,11 @@ Steps taken for:
 | 773           | 264.925806   | 402       | 0.659019       | 0.724921            |
 ---
 
-## 🔹 Dashboard
+## 🔹Dashboard
 We will add soon . 
 ---
 
-## 🔹 How to Run This Project
+## 🔹How to Run This Project
 Instructions for setup:
 1. Clone the repository (git clone https://github.com/Sachin2095/Airline-SQL-DATASET.git) 
 2. Install dependencies (`pip install -r requirements.txt`)  
@@ -106,7 +106,7 @@ Instructions for setup:
 
 ---
 
-## 🔹 Final Recommendations
+## 🔹Final Recommendations
 1. Airlines can find areas for improvement and modify their pricing and route plans as a result of assessing these indicators.
 2. A greater occupancy rate is one important feature that can enhance profitability since it allows airlines to maximize revenue while minimizing costs associated with vacent seats.
 3. the airline should revise the price for earch aircraft as the lower price and high price is also the factor that people are not buying tickets  from those aircrafts .
