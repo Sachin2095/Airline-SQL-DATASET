@@ -66,11 +66,11 @@ Steps taken for:
 ## 🔹Research Questions & Key Findings
 - There is 5 Planes that have more than 100 seats.
 - Number of tickets booked and total amount earned over time . 
-![Number of tickets VS time ](images/dashboard.png)
-![Total Amounts VS time ](images/dashboard.png)
+![Number of tickets VS time ](figure/number_of_tickets.png)
+![Total Amounts VS time ](figure/total_amount.png)
 
 - Calculate the average charges for each aircraft with different fare condition. 
-![Avg Amount  ](images/dashboard.png)
+![Avg Amount  ](figure/total_amount.png)
 
 - Calculate the total revenue per year and the average  revenue per ticket.
 
