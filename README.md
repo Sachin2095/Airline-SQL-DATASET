@@ -47,13 +47,13 @@ A airline company is currently facin a  challenges due to several factors such a
 
 ## 🔹 Project Structure
 
+├── travel.sqlite               # Huge database, download through the link
+├── Airline_Data_analysis.ipynb # Jupyter notebook for EDA and modeling
+├── figure/                     # Visualizations
+├── dashboard/                  # Dashboard-related files
+├── README.md                   # Project documentation
+└── .gitignore                  # Avoid tracking virtual environments
 
-├── travel.sqlite # Huge database not able to push on github (download thorught the link)
-├── Airline_Data_analysis.ipynb # Jupyter notebooks for EDA and modeling
-├── figure/ # visualizations
-├── dashboard/ # Dashboard-related files
-└── README.md # Project documentation
-└── .gitignore # avoid the virtual environments
 
 ---
 
